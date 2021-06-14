@@ -1,2 +1,4 @@
 hello, this is a sample text
 this is a new line (1)
+this is a new line (2)
+this is a new line (3)
